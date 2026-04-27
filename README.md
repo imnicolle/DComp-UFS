@@ -1,1 +1,1 @@
-# DComp-UFS
+# dcomp-ufs
